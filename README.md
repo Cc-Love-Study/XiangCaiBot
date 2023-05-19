@@ -54,7 +54,7 @@ qqchat_v0.2
 	4.对于go-cqhttp
 	配置自己的qq信息就可以了 需要注意的是需要将表情包放入data/images内 表情包位置：
 	链接：https://pan.baidu.com/s/15ORgOTm5icL2Av2aTdLnrw?pwd=1111 
-	提取码：1111  下载img文件夹内容 放入data/images内部
+	提取码：1111  下载img文件夹内容 放入data/images内部 可根据自己喜好添加表情包
 
 ![image](https://img2023.cnblogs.com/blog/2729131/202305/2729131-20230519205750040-1446506287.png)
 
