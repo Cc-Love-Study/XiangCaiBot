@@ -29,7 +29,9 @@ qqchat_v0.2
 
 ## 效果图
 >废话不多说，先看看效果
+
 ![image](https://img2023.cnblogs.com/blog/2729131/202305/2729131-20230519204652700-1400448233.png)
+
 
 ## 需要组件
 	1. stable diffusion
