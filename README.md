@@ -9,13 +9,21 @@
 项目结构：
 qqchat_v0.2 
    >--chat
+   >
    >   --chat.py
+   >   
    >   --favicon.ico
+   >   
    >   --requirements.txt
+   >   
    >--go-cqhttp
+   >
    >   --省略
+   >   
    >--stable-diffusion-webui
+   >
    >   --省略
+   >   
 
 对于以上项目结构，仅提供chat文件夹内内容，和其余两个开源项目所需要的一些内容
 
