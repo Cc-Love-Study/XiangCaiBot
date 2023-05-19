@@ -7,7 +7,7 @@
 >赛博(女)朋友
 
 项目结构：
-qqchat_v0.2
+qqchat_v0.2 
    --chat
       --chat.py
       --favicon.ico
@@ -63,6 +63,3 @@ qqchat_v0.2
 	见 
 	requirement.txt
 
-## 代码
-	见 
-	https://github.com/Cc-Love-Study/XiangCaiBot
