@@ -52,9 +52,9 @@ qqchat_v0.2
 	还有port需要和go-cqhttp内设定的一样 我这里使用的是9991
 	同时 程序内的所有路径，都需要更改，因为我使用的是绝对路径，这里需要改为你自己的对应位置的路径
 	4.对于go-cqhttp
-	配置自己的qq信息就可以了 需要注意的是需要将表情包放入data/images内
-	
-	
+	配置自己的qq信息就可以了 需要注意的是需要将表情包放入data/images内 表情包位置：
+	链接：https://pan.baidu.com/s/15ORgOTm5icL2Av2aTdLnrw?pwd=1111 
+	提取码：1111  下载img文件夹内容 放入data/images内部
 
 ![image](https://img2023.cnblogs.com/blog/2729131/202305/2729131-20230519205750040-1446506287.png)
 
@@ -74,4 +74,3 @@ qqchat_v0.2
 ## 项目环境
 	见 
 	requirement.txt
-
