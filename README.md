@@ -38,10 +38,6 @@ qqchat_v0.2
 	2. go-cqhttp
 	https://github.com/Mrs4s/go-cqhttp
 
-## 启动方法
-	1.运行stable diffusion 这个启动比较慢 可能要等一会
-	2.运行go-cqhttp 这个需要配置一些东西，可以看go-cqhttp的教程
-	3.运行chat.py
 
 ## 配置方法
 	1.对于stable diffusion 这里使用的是下面这个模型
@@ -67,6 +63,11 @@ qqchat_v0.2
 ![image](https://img2023.cnblogs.com/blog/2729131/202305/2729131-20230519205847059-634959057.png)
 
 ![image](https://img2023.cnblogs.com/blog/2729131/202305/2729131-20230519205913034-263158540.png)
+
+## 启动方法
+	1.运行stable diffusion 这个启动比较慢 可能要等一会
+	2.运行go-cqhttp 这个需要配置一些东西，可以看go-cqhttp的教程
+	3.运行chat.py
 
 ## 项目环境
 	见 
