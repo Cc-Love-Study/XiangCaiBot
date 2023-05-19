@@ -30,8 +30,7 @@ qqchat_v0.2
 ## 效果图
 >废话不多说，先看看效果
 
-![image](https://img2023.cnblogs.com/blog/2729131/202305/2729131-20230519204652700-1400448233.png)
-
+![6V_QT~95`8G5EFG3(KPT}YK](https://github.com/Cc-Love-Study/XiangCaiBot/assets/92032190/1dd92891-5ff9-4ad7-81cd-1840913e1e90)
 
 ## 需要组件
 	1. stable diffusion
