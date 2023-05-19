@@ -3,8 +3,8 @@
 香菜Bot--基于chatgpt与stable diffusion和go-cqhttp的QQ机器人
 
 
->闲来无事，利用chatgpt的api和stable_diffusion的api写了一个qq机器人，qq使用的框架是go-cqhttp.这里做一些总结.
->赛博(女)朋友
+>闲来无事，利用chatgpt的api和stable_diffusion的api写了一个qq机器人，qq使用的框架是go-cqhttp.
+>?赛博好朋友
 
 项目结构：
 qqchat_v0.2 
